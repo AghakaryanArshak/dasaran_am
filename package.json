@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/mdn/headless-examples#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.19",
+    "jsonfile": "^4.0.0",
+    "open": "0.0.5",
+    "request": "^2.82.0",
+    "scrape-it": "^3.3.3",
     "selenium-webdriver": "^3.5.0"
   }
 }
