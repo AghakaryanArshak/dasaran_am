@@ -69,6 +69,7 @@ function sc(marz_num) {
     });
 }
 
-sc(1)
-
+for(i=0;i<2;i++){
+sc(i)
+}
 driver.quit();
